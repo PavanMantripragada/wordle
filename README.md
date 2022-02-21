@@ -22,13 +22,13 @@ words.
   7. Let the answer be "windy" and our sequential guesses be {weary,whiny,windy}
   8. Make sure you enter respective wordle outcome after each guess word you entered as shown below.
     
-    `>>> python3 wordle_sieve.py`
-    `>>> Enter the word : weary`
-    `>>> Enter the outcome : g___g`
-    `>>> The program will print all possible options here [---]`
-    `>>> Enter the word : whiny`
-    `>>> Enter the outcome : g_yyg`
-    `>>> The program will print all possible options here [---]`
+    >>> python3 wordle_sieve.py
+    >>> Enter the word : weary
+    >>> Enter the outcome : g___g
+    >>> The program will print all possible options here [---]
+    >>> Enter the word : whiny
+    >>> Enter the outcome : g_yyg
+    >>> The program will print all possible options here [---]
   
   
     
